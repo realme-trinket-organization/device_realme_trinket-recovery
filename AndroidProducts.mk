@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_realme_trinket.mk
+    $(LOCAL_DIR)/twrp_realme_trinket.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_realme_trinket-user \
-    omni_realme_trinket-userdebug \
-    omni_realme_trinket-eng
+    twrp_realme_trinket-user \
+    twrp_realme_trinket-userdebug \
+    twrp_realme_trinket-eng
