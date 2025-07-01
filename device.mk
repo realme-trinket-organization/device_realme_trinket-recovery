@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/realme/realme_trinket
+DEVICE_PATH := device/realme/realme_trinket
